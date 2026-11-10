@@ -1,0 +1,1 @@
+{"name":"motohava-push-server","version":"1.0.0","private":true,"type":"module","scripts":{"start":"node index.js","keys":"node keys.js"},"dependencies":{"express":"^4.21.2","web-push":"^3.6.7","node-cron":"^3.0.3"}}
